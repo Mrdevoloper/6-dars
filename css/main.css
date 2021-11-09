@@ -1,0 +1,33 @@
+.container {
+    max-width: 500px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border-radius: 30px;
+    border: 5px solid black;
+
+}
+
+.result {
+    font-size: 25px;
+    color: red;
+}
+
+.success {
+    font-size: 25px;
+    color: green;
+}
+
+
+#result_amound{
+    font-size: 100px;
+    color: #fff
+}
